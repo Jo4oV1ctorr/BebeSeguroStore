@@ -1,2 +1,2 @@
 # BebeSeguroStore
- desenvolvimento de um ecommerce
+ecommerce em desenvolvimento...
